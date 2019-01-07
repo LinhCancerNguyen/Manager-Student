@@ -1,1 +1,1 @@
-# ManagerStudent
+#Student management
